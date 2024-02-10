@@ -1,14 +1,14 @@
 </div>
 <p align="center">
-  <a href="https://github.com/WhyDepin/baileys-bot-whatsapp"><img title="Script" src="https://img.shields.io/badge/Author-TabrakLurus-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/YUDAMODS/BASE-PAIRINGBOT-V1><img title="Script" src="https://img.shields.io/badge/Author-TabrakLurus-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
 </h4>
 </p>
 
 # TERMUX INSTALLATION
 ```bash
-> git clone https://github.com/WhyDepin/baileys-bot-whatsapp 
-> cd baileys-bot-whatsapp 
+> git clone https://github.com/YUDAMODS/BASE-PAIRINGBOT-V1
+> cd BASE-PAIRINGBOT-V1
 > npm i
 ```
 ## Connect
